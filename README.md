@@ -12,3 +12,4 @@ This app generates multiple-choice questions for teachers and students based on 
 Users select a lesson, and the app sends a request to a fine tuned LLM hosted on Colab T4 via the Gradio API. The LLM retrieves the corresponding context from the Firebase database, processes the request, and generates questions. The output is then sent back through the API and displayed in the Flutter app’s UI.
 
 
+![App Capture](assets/app.jpg)
