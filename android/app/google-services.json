@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:660932455666:android:f4d86540f1ef233312346b",
         "android_client_info": {
-          "package_name": "mcqgen.app"
+          "package_name": "com.example.mcqgen_app"
         }
       },
       "oauth_client": [],

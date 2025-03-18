@@ -1,0 +1,1 @@
+/Users/trungtom/Kltn/app/mcqgen_app/build/app/intermediates/cxx/Debug/6d62u176/obj/x86_64

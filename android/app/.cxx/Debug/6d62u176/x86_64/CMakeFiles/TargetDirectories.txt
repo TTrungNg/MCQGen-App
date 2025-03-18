@@ -1,0 +1,2 @@
+/Users/trungtom/Kltn/app/mcqgen_app/android/app/.cxx/Debug/6d62u176/x86_64/CMakeFiles/edit_cache.dir
+/Users/trungtom/Kltn/app/mcqgen_app/android/app/.cxx/Debug/6d62u176/x86_64/CMakeFiles/rebuild_cache.dir

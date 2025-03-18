@@ -29,7 +29,7 @@ class ModelApi {
 
   Future<String?> fetchEventId(String inputContext) async {
     var url = Uri.parse(
-        "https://ba17a7ae04cdd5da2e.gradio.live/gradio_api/call/predict");
+        "https://ca0e9bbaec18694080.gradio.live/gradio_api/call/predict");
 
     try {
       final response = await client.post(
@@ -55,7 +55,7 @@ class ModelApi {
 
   Future<String?> fetchResult(String eventId) async {
     var url = Uri.parse(
-        "https://ba17a7ae04cdd5da2e.gradio.live/gradio_api/call/predict/$eventId");
+        "https://ca0e9bbaec18694080.gradio.live/gradio_api/call/predict/$eventId");
     return _polling(url);
   }
 
